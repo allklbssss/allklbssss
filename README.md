@@ -1,7 +1,7 @@
 # Hi, I`m Alina 👋
 
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=allklbssss&show_icons=true&theme=material-palenight&hide_border=none" />
-<img height="160em" align="right" src="https://github.com/allklbssss/allklbssss/blob/main/assets/777.png" />
+<img align="right" src="https://github.com/allklbssss/allklbssss/blob/main/assets/777.png" />
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allklbssss&layout=compact&theme=material-palenight&hide_border=none" />
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allklbssss&show_icons=true&theme=material-palenight&hide_border=none)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Header](https://github.com/allklbssss/allklbssss/blob/main/assets/777.png)
