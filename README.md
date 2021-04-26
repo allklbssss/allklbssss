@@ -1,6 +1,6 @@
 # Hi, I`m Alina 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allklbssss&show_icons=true&theme=material-palenight&hide_border=none&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allklbssss&show_icons=true&theme=material-palenight&hide_border=none&card_width=200px)](https://github.com/anuraghazra/github-readme-stats)
 ![Header](https://github.com/allklbssss/allklbssss/blob/main/assets/777.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allklbssss&layout=compact&theme=material-palenight&hide_border=none)](https://github.com/anuraghazra/github-readme-stats)
 
